@@ -14,5 +14,5 @@ JPEG, PNG and DICOM extension are supported.</p>
 
 
 <h3>Python packages dependencies list:</h3>
-<p>pydicom, numpy, pillow, matplotlib, gdcm, scipy, pandas, opencv, screeninfo, pysimplegui, scikit-learn</p>
+<p>pydicom, numpy, pillow, matplotlib, gdcm, scipy, pandas, opencv, screeninfo, scikit-learn</p>
 
