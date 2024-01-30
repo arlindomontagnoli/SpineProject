@@ -8,9 +8,9 @@ JPEG, PNG and DICOM extension are supported.</p>
 
 <p>Ensure to landmark a set of four points for each vertebra, spanning from the first sacral vertebra (S1) to the second cervical vertebra (C2), including four points for the femoral head.</p>
 
-<p>To keep the landmarks annotated within the ROI, press the <enter> key. The landmarks will be inserted in the main Xray window.</p>
+<p>To keep the landmarks annotated within the ROI, press the [enter] key. The landmarks will be inserted in the main Xray window.</p>
 
-<p>The landmarks will be automatically saved when exiting the main window, by pressing the <esc> key.</p>
+<p>The landmarks will be automatically saved when exiting the main window, by pressing the [esc] key.</p>
 
 
 <h3>Python packages dependencies list:</h3>
