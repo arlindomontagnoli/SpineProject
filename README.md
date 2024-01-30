@@ -10,7 +10,7 @@ JPEG, PNG and DICOM extension are supported.</p>
 
 <p>To keep the landmarks annotated within the ROI, press the [enter] key. The landmarks will be inserted in the main Xray window.</p>
 
-<p>The landmarks will be automatically saved when exiting the main window, by pressing the [esc] key.</p>
+<p>The landmarks will be automatically saved when exiting the main window, by pressing the &lt;esc&gt; key.</p>
 
 
 <h3>Python packages dependencies list:</h3>
